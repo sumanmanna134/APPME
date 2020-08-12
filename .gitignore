@@ -1,7 +1,9 @@
-package io.flutter.plugins;
-
-import androidx.annotation.Keep;
-import androidx.annotation.NonNull;
-
-import io.flutter.embedding.engine.FlutterEngine;
-import io.flutter.embedding.engine.plugins.shim.ShimPluginR
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild

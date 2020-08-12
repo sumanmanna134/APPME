@@ -1,0 +1,10 @@
+//
+//  Generated file. Do not edit.
+//
+
+#import "GeneratedPluginRegistrant.h"
+
+#if __has_include(<cloud_firestore/FLTCloudFirestorePlugin.h>)
+#import <cloud_firestore/FLTCloudFirestorePlugin.h>
+#else
+@import 
